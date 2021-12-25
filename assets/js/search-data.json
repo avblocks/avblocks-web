@@ -2,80 +2,80 @@
     "doc": "Features",
     "title": "Features",
     "content": ". | Codecs . | Audio | Video | . | Transforms . | Audio | Video | . | File Formats / Containers / Systems | Device Presets | Supported Platforms . | Windows | macOS | Linux | . | . ",
-    "url": "https://www.avblocks.com/features",
-    "relUrl": "/features"
+    "url": "https://www.avblocks.com/features/",
+    "relUrl": "/features/"
   },"1": {
     "doc": "Features",
     "title": "Codecs",
     "content": "Audio . | Advanced Audio Coding (AAC / MPEG-2 Part 7 / MPEG-4 Part 3) | MPEG-1 Audio Layer 1, 2, 3 (MP3) | MPEG-2 Audio Layer 1, 2, 3 (MPEG-2 Part 3) | Dolby Digital Audio (AC-3) 1) | Windows Media Audio 2) | G.711 · A-Law Audio · μ-Law Audio · PCM | G.726 Speech Audio · ADPCM | PCM Audio · LPCM Audio | . 1) Decoding only 2) Windows only . Video . | H.265 / HEVC / MPEG-H Part 2 1) 3) | H.264 / AVC / MPEG-4 Part 10 | VC-1 | VP8 | Windows Media Video 2) 3) | MPEG-4 Part 2 | H.263 · H.262 / MPEG-2 Part 2 · H.261 | MJPEG 2) | . 1) Only on NVIDIA Maxwell Gen. 2 GPUs and newer 2) Decoding only 3) Windows only . ",
-    "url": "https://www.avblocks.com/features#codecs",
-    "relUrl": "/features#codecs"
+    "url": "https://www.avblocks.com/features/#codecs",
+    "relUrl": "/features/#codecs"
   },"2": {
     "doc": "Features",
     "title": "Transforms",
     "content": "Audio . | Audio Resampling | Mono Audio to Stereo Audio | Multi-channel Audio to Stereo Audio | Stereo Audio to Mono Audio | Change Audio Bitrate | . Video . | Image Overlay | Crop Video | Resize Video | De-interlace Video | Change Video Frame Rate | Change Video Bitrate | . ",
-    "url": "https://www.avblocks.com/features#transforms",
-    "relUrl": "/features#transforms"
+    "url": "https://www.avblocks.com/features/#transforms",
+    "relUrl": "/features/#transforms"
   },"3": {
     "doc": "Features",
     "title": "File Formats / Containers / Systems",
     "content": ". | MP4 · MP4 FastStart | WMV · WMA · ASF 1) 2) | AVI 1) | MPEG-1 | MPEG-2 TS | MPEG-2 PS | WAV | WebM / Matroska | . 1) Reading only 2) Windows only . ",
-    "url": "https://www.avblocks.com/features#file-formats--containers--systems",
-    "relUrl": "/features#file-formats--containers--systems"
+    "url": "https://www.avblocks.com/features/#file-formats--containers--systems",
+    "relUrl": "/features/#file-formats--containers--systems"
   },"4": {
     "doc": "Features",
     "title": "Device Presets",
     "content": ". | Apple TV · HTTP Live Streaming | iPad · iPhone · iPod Touch · iPod Classic | Android H.264 · Android WebM | Blu-ray Disc Audio / Video (BDAV) | DVD NTSC · DVD PAL | DVD NTSC · DVD PAL | Audio CD | . ",
-    "url": "https://www.avblocks.com/features#device-presets",
-    "relUrl": "/features#device-presets"
+    "url": "https://www.avblocks.com/features/#device-presets",
+    "relUrl": "/features/#device-presets"
   },"5": {
     "doc": "Features",
     "title": "Supported Platforms",
     "content": "Windows . | Windows 11 · 10 · Windows 8.1 · Windows 8 · Windows 7 SP1 | Windows Server 2022 · 2019 · 2016 · 2012 R2 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 · 2017 | . macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 13 · Xcode 12 | macOS 12 (Monterey) · 11 (Big Sur) · 10.15 (Catalina) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 7+ | Ubuntu (18.04 LTS and up) · Debian (9 and up) | . ",
-    "url": "https://www.avblocks.com/features#supported-platforms",
-    "relUrl": "/features#supported-platforms"
+    "url": "https://www.avblocks.com/features/#supported-platforms",
+    "relUrl": "/features/#supported-platforms"
   },"6": {
     "doc": "Download",
     "title": "Download",
     "content": " ",
-    "url": "https://www.avblocks.com/download",
-    "relUrl": "/download"
+    "url": "https://www.avblocks.com/download/",
+    "relUrl": "/download/"
   },"7": {
     "doc": "Download",
     "title": "Windows",
     "content": ".NET SDK . AVBlocks.NET.2.3.2.x64.Demo.zip (64-Bit) . AVBlocks.NET.2.3.2.x86.Demo.zip (32-Bit) . C++ SDK . AVBlocks.2.3.2.x64.Demo.zip (64-Bit) . AVBlocks.2.3.2.x86.Demo.zip (32-Bit) . ",
-    "url": "https://www.avblocks.com/download#windows",
-    "relUrl": "/download#windows"
+    "url": "https://www.avblocks.com/download/#windows",
+    "relUrl": "/download/#windows"
   },"8": {
     "doc": "Download",
     "title": "macOS",
     "content": "C++ SDK . AVBlocks.2.3.2.Demo.zip (Universal Binary , 64-Bit &amp; 32-Bit) . ",
-    "url": "https://www.avblocks.com/download#macos",
-    "relUrl": "/download#macos"
+    "url": "https://www.avblocks.com/download/#macos",
+    "relUrl": "/download/#macos"
   },"9": {
     "doc": "Download",
     "title": "Linux",
     "content": "Ubuntu . C++ SDK . AVBlocks.2.3.2.x86_64.Demo.tgz (64-Bit) . AVBlocks.2.3.2.i386.Demo.tgz (32-Bit) . Debian . C++ SDK . AVBlocks.2.3.2.x86_64.Demo.tgz (64-Bit) . AVBlocks.2.3.2.i386.Demo.tgz (32-Bit) . ",
-    "url": "https://www.avblocks.com/download#linux",
-    "relUrl": "/download#linux"
+    "url": "https://www.avblocks.com/download/#linux",
+    "relUrl": "/download/#linux"
   },"10": {
     "doc": "License",
     "title": "License",
     "content": ". | Commercial / Full License | Discounts . | Competitive product | Startup | Educational institution | Open source project | . | . ",
-    "url": "https://www.avblocks.com/license",
-    "relUrl": "/license"
+    "url": "https://www.avblocks.com/license/",
+    "relUrl": "/license/"
   },"11": {
     "doc": "License",
     "title": "Commercial / Full License",
     "content": "$6000 / year . This license is for established businesses and organizations: . | Fixed annual fee per product, per platform | No additional royalties | No hidden fees | . Please contact AVBlocks Sales. ",
-    "url": "https://www.avblocks.com/license#commercial--full-license",
-    "relUrl": "/license#commercial--full-license"
+    "url": "https://www.avblocks.com/license/#commercial--full-license",
+    "relUrl": "/license/#commercial--full-license"
   },"12": {
     "doc": "License",
     "title": "Discounts",
     "content": "Competitive product . $4800 / year (20% OFF) . Users of commercial products competitive to AVBlocks qualify for a 20% OFF towards standard commercial license for AVBlocks. Please contact AVBlocks Sales. Startup . $3000 / year (50% OFF) . This discount is available to any company that meets all the following requirements: . | Is privately held, and | Has been in business for no more than 3 years, and | Is engaged in development of a software-based product or service, and | Is an established business with a website and/or existing public references on the Internet. | . License issued for 1 year. Must apply again to renew. Please contact AVBlocks Sales. Educational institution . FREE . Classroom licenses allow for use of the fully-functional version of AVBlocks for educational and teaching purposes in classrooms by professors, trainers, and students. | May be provided for students and teachers to be used for classroom assistance. | Allows the software to be installed and used in on-site classrooms and labs. | Allows students and teachers to use the software on their personal PCs for educational tasks, such as preparing training materials or doing homework. | . Please contact AVBlocks Sales. Open source project . FREE . Non-commercial Open Source projects can qualify for free license to AVBlocks provided that they meet a set of simple criteria: . | You have to be a project lead or a regular committer. | Your OS project meets the Open Source definition. | You do not perform any paid support, consulting or training services for your OS project, and you do not distribute paid versions of your OS software. | Your OS project is in active development for a minimum of 3 months. | Your OS project’s community is active. This means that you have recent activity in your newsgroups or forums. | Your OS project has a website including either a regularly updated News section or links to social network account(s) where project updates are posted. | You release updated builds on a regular basis. | Your project license is a commercial use friendly license (i.e. not GPL, AGPL, LGPL, MPL or any other copyleft license). | . License issued for 1 year. Must apply again to renew. Please contact AVBlocks Sales. ",
-    "url": "https://www.avblocks.com/license#discounts",
-    "relUrl": "/license#discounts"
+    "url": "https://www.avblocks.com/license/#discounts",
+    "relUrl": "/license/#discounts"
   },"13": {
     "doc": "Documentation",
     "title": "Documentation",
