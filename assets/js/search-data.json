@@ -184,5 +184,32 @@
     "content": ". | C++ SDK | .NET SDK (C# - Visual Basic - F#) | . ",
     "url": "https://avblocks.com/#programming-languages",
     "relUrl": "/#programming-languages"
+<<<<<<< HEAD
+=======
+  },"24": {
+    "doc": "Support",
+    "title": "Support",
+    "content": "Technical support for AVBlocks is provided via GitHub. ",
+    "url": "https://avblocks.com/support/",
+    "relUrl": "/support/"
+  },"25": {
+    "doc": "Support",
+    "title": "Feature requests",
+    "content": "Please create an issue on GitHub. ",
+    "url": "https://avblocks.com/support/#feature-requests",
+    "relUrl": "/support/#feature-requests"
+  },"26": {
+    "doc": "Support",
+    "title": "Report a bug",
+    "content": "Please create an issue on GitHub. ",
+    "url": "https://avblocks.com/support/#report-a-bug",
+    "relUrl": "/support/#report-a-bug"
+  },"27": {
+    "doc": "Support",
+    "title": "Contact us",
+    "content": "You can always send an email to AVBlocks Support. ",
+    "url": "https://avblocks.com/support/#contact-us",
+    "relUrl": "/support/#contact-us"
+>>>>>>> 3b29c44e250ffb557e624ba783586bdef845f95b
   }
 }

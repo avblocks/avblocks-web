@@ -13,6 +13,7 @@
 <loc>https://avblocks.com/documentation/</loc>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>https://avblocks.com/support/</loc>
 </url>
 <url>
@@ -20,5 +21,11 @@
 </url>
 <url>
 <loc>https://avblocks.com/</loc>
+=======
+<loc>https://avblocks.com/</loc>
+</url>
+<url>
+<loc>https://avblocks.com/support/</loc>
+>>>>>>> 3b29c44e250ffb557e624ba783586bdef845f95b
 </url>
 </urlset>
