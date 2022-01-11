@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.avblocks.com/features/</loc>
+<loc>https://avblocks.com/features/</loc>
 </url>
 <url>
-<loc>https://www.avblocks.com/download/</loc>
+<loc>https://avblocks.com/download/</loc>
 </url>
 <url>
-<loc>https://www.avblocks.com/license/</loc>
+<loc>https://avblocks.com/license/</loc>
 </url>
 <url>
-<loc>https://www.avblocks.com/documentation/</loc>
+<loc>https://avblocks.com/documentation/</loc>
 </url>
 <url>
-<loc>https://www.avblocks.com/</loc>
+<loc>https://avblocks.com/support/</loc>
 </url>
 <url>
-<loc>https://www.avblocks.com/support/</loc>
+<loc>https://avblocks.com/related-products/</loc>
+</url>
+<url>
+<loc>https://avblocks.com/</loc>
 </url>
 </urlset>
