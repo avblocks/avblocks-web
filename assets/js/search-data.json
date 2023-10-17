@@ -84,101 +84,113 @@
     "relUrl": "/documentation/"
   },"14": {
     "doc": "Documentation",
-    "title": ".NET (C#) API",
+    "title": ".NET",
     "content": "AVBlocks for .NET . ",
-    "url": "https://avblocks.com/documentation/#net-c-api",
-    "relUrl": "/documentation/#net-c-api"
+    "url": "https://avblocks.com/documentation/#net",
+    "relUrl": "/documentation/#net"
   },"15": {
     "doc": "Documentation",
-    "title": "C++ API",
-    "content": "AVBlocks Core (C++ / C) . NOTE: Both the C++ and the .NET API documentation is generated using Doxygen. ",
-    "url": "https://avblocks.com/documentation/#c-api",
-    "relUrl": "/documentation/#c-api"
+    "title": "C++",
+    "content": "AVBlocks Core (C++ / C) . ",
+    "url": "https://avblocks.com/documentation/#c",
+    "relUrl": "/documentation/#c"
   },"16": {
     "doc": "Documentation",
-    "title": "Wiki",
-    "content": "On the AVBlocks Wiki you will find how-to articles and code snippets about the C# and C++ SDKs. ",
-    "url": "https://avblocks.com/documentation/#wiki",
-    "relUrl": "/documentation/#wiki"
+    "title": "API Reference",
+    "content": " ",
+    "url": "https://avblocks.com/documentation/#api-reference",
+    "relUrl": "/documentation/#api-reference"
   },"17": {
+    "doc": "Documentation",
+    "title": ".NET",
+    "content": "AVBlocks for .NET . ",
+    "url": "https://avblocks.com/documentation/#net-1",
+    "relUrl": "/documentation/#net-1"
+  },"18": {
+    "doc": "Documentation",
+    "title": "C++",
+    "content": "AVBlocks Core (C++ / C) . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
+    "url": "https://avblocks.com/documentation/#c-1",
+    "relUrl": "/documentation/#c-1"
+  },"19": {
     "doc": "Documentation",
     "title": "Samples",
     "content": "AVBlocks Samples is a repository of code samples on GitHub. The same code samples (pre-built) are included with the AVBlocks packages which can be downloaded from the Download page. ",
     "url": "https://avblocks.com/documentation/#samples",
     "relUrl": "/documentation/#samples"
-  },"18": {
+  },"20": {
     "doc": "Support",
     "title": "Support",
     "content": "Technical support for AVBlocks is provided via GitHub. ",
     "url": "https://avblocks.com/support/",
     "relUrl": "/support/"
-  },"19": {
+  },"21": {
     "doc": "Support",
     "title": "Feature requests",
     "content": "Please create an issue on GitHub. ",
     "url": "https://avblocks.com/support/#feature-requests",
     "relUrl": "/support/#feature-requests"
-  },"20": {
+  },"22": {
     "doc": "Support",
     "title": "Report a bug",
     "content": "Please create an issue on GitHub. ",
     "url": "https://avblocks.com/support/#report-a-bug",
     "relUrl": "/support/#report-a-bug"
-  },"21": {
+  },"23": {
     "doc": "Support",
     "title": "Contact us",
     "content": "You can always send an email to AVBlocks Support. ",
     "url": "https://avblocks.com/support/#contact-us",
     "relUrl": "/support/#contact-us"
-  },"22": {
+  },"24": {
     "doc": "Related Products",
     "title": "Related Products",
     "content": " ",
     "url": "https://avblocks.com/related-products/",
     "relUrl": "/related-products/"
-  },"23": {
+  },"25": {
     "doc": "Related Products",
     "title": "DVDBuilder",
     "content": "DVDBuilder is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
     "url": "https://avblocks.com/related-products/#dvdbuilder",
     "relUrl": "/related-products/#dvdbuilder"
-  },"24": {
+  },"26": {
     "doc": "Related Products",
     "title": "PrimoBurner",
     "content": "PrimoBurner is a CD, DVD and Blu-ray burning software development kit (SDK). It is cross-platform, and offers a well-rounded and flexible API for fast and easy implementation of optical disc recording / archiving solutions. ",
     "url": "https://avblocks.com/related-products/#primoburner",
     "relUrl": "/related-products/#primoburner"
-  },"25": {
+  },"27": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "Audio / Video coding Blocks (AVBlocks) is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
     "url": "https://avblocks.com/",
     "relUrl": "/"
-  },"26": {
+  },"28": {
     "doc": "Introduction",
     "title": "Supported audio codecs",
     "content": ". | LPCM Audio | MPEG-1 Audio and MPEG-2 Audio (Layer 1, 2 and 3) | AAC Audio (MPEG-2 Part 7 / MPEG-4 Part 3) | Vorbis Audio | Dolby Digital Audio (AC3) (decode only) | Windows Media Audio (decode only) | Speech Audio / Voice Audio (G.711 / G.726) | . ",
     "url": "https://avblocks.com/#supported-audio-codecs",
     "relUrl": "/#supported-audio-codecs"
-  },"27": {
+  },"29": {
     "doc": "Introduction",
     "title": "Supported video codecs",
     "content": ". | High Efficiency Video Coding (H.265 / HEVC / MPEG-H Part 2) | Advanced Video Coding (H.264 / MPEG-4 AVC / MPEG-4 Part 10) | WebM Video (Google VP8) | VC-1 Video | MPEG-4 Video (MPEG-4 Part 2) | MJPEG Video (decode only) | Windows Media Video | Mobile Video (H.263 / 3GPP / 3GPP2) | MPEG-2 Video (H.262 / MPEG-2 Part) | MPEG-1 Video (MPEG-1 Part 2) | H.261 Video | . ",
     "url": "https://avblocks.com/#supported-video-codecs",
     "relUrl": "/#supported-video-codecs"
-  },"28": {
+  },"30": {
     "doc": "Introduction",
     "title": "Supported file formats",
     "content": ". | Audio Video Interleaved (AVI) | Advanced Systems Format (ASF / WMA / WMV) | MPEG-1 Part 1 (MPEG Systems / MPG) | MPEG-2 Part 1 (MPEG-2 Program Stream / MPEG-PS) | MPEG-2 Part 1 (MPEG-2 Transport Stream / MPEG-TS / MTS / M2TS) | MPEG-4 Part 14 (M4A / MP4) | Waveform Audio File Format (WAVE / WAV) | WebM Container Format (WEBM) | . ",
     "url": "https://avblocks.com/#supported-file-formats",
     "relUrl": "/#supported-file-formats"
-  },"29": {
+  },"31": {
     "doc": "Introduction",
     "title": "Platforms",
     "content": ". | Available for Windows, macOS, and Linux (Ubuntu, Debian) | . ",
     "url": "https://avblocks.com/#platforms",
     "relUrl": "/#platforms"
-  },"30": {
+  },"32": {
     "doc": "Introduction",
     "title": "Programming languages",
     "content": ". | C++ SDK | .NET SDK (C# - Visual Basic - F#) | . ",
