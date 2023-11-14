@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Features",
     "title": "Features",
-    "content": ". | Codecs . | Audio | Video | . | Transforms . | Audio | Video | . | File Formats / Containers / Systems | Device Presets | Supported Platforms . | Windows | macOS | Linux | . | . ",
+    "content": ". | Codecs . | Audio | Video | . | Transforms . | Audio | Video | . | File Formats / Containers / Systems | Device Presets | Supported Platforms . | macOS | Linux | Windows | . | . ",
     "url": "https://avblocks.com/features/",
     "relUrl": "/features/"
   },"1": {
@@ -31,7 +31,7 @@
   },"5": {
     "doc": "Features",
     "title": "Supported Platforms",
-    "content": "Windows . | Windows 11 · 10 · Windows 8.1 · Windows 8 · Windows 7 SP1 | Windows Server 2022 · 2019 · 2016 · 2012 R2 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 · 2017 | . macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 13 · Xcode 12 | macOS 12 (Monterey) · 11 (Big Sur) · 10.15 (Catalina) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 7+ | Ubuntu (18.04 LTS and up) · Debian (9 and up) | . ",
+    "content": "macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 15 · 14 | macOS 13 (Ventura) · 12 (Monterey) · 11 (Big Sur) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 7+ | Ubuntu (20.04 LTS and up) | . Windows . | Windows 11 · Windows 10 | Windows Server 2022 · Windows Server 2019 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET Core 6+ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 | . ",
     "url": "https://avblocks.com/features/#supported-platforms",
     "relUrl": "/features/#supported-platforms"
   },"6": {
@@ -169,7 +169,7 @@
   },"28": {
     "doc": "Introduction",
     "title": "Introduction",
-    "content": ". Audio / Video coding Blocks (AVBlocks) is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
+    "content": "Audio / Video coding Blocks (AVBlocks) is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
     "url": "https://avblocks.com/",
     "relUrl": "/"
   },"29": {
@@ -193,7 +193,7 @@
   },"32": {
     "doc": "Introduction",
     "title": "Platforms",
-    "content": ". | Available for Windows, macOS, and Linux (Ubuntu, Debian) | . ",
+    "content": ". | Available for Windows, macOS, and Linux (Ubuntu) | . ",
     "url": "https://avblocks.com/#platforms",
     "relUrl": "/#platforms"
   },"33": {
