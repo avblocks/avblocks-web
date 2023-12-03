@@ -71,55 +71,55 @@
     "url": "https://avblocks.com/license/#discounts",
     "relUrl": "/license/#discounts"
   },"12": {
-    "doc": "Documentation",
-    "title": "Documentation",
+    "doc": "Docs",
+    "title": "Docs",
     "content": " ",
     "url": "https://avblocks.com/documentation/",
     "relUrl": "/documentation/"
   },"13": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": "C++",
     "content": "AVBlocks Core (C++ / C) . ",
     "url": "https://avblocks.com/documentation/#c",
     "relUrl": "/documentation/#c"
   },"14": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": ".NET",
     "content": "AVBlocks for .NET . ",
     "url": "https://avblocks.com/documentation/#net",
     "relUrl": "/documentation/#net"
   },"15": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": "API Reference",
     "content": " ",
     "url": "https://avblocks.com/documentation/#api-reference",
     "relUrl": "/documentation/#api-reference"
   },"16": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": "C++",
     "content": "AVBlocks Core (C++ / C) . ",
     "url": "https://avblocks.com/documentation/#c-1",
     "relUrl": "/documentation/#c-1"
   },"17": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": ".NET",
     "content": "AVBlocks for .NET . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
     "url": "https://avblocks.com/documentation/#net-1",
     "relUrl": "/documentation/#net-1"
   },"18": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": "Samples",
     "content": " ",
     "url": "https://avblocks.com/documentation/#samples",
     "relUrl": "/documentation/#samples"
   },"19": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": "C++",
     "content": "AVBlocks C++ SDK (CLI Samples) . ",
     "url": "https://avblocks.com/documentation/#c-2",
     "relUrl": "/documentation/#c-2"
   },"20": {
-    "doc": "Documentation",
+    "doc": "Docs",
     "title": ".NET",
     "content": "AVBlocks .NET SDK (CLI Samples) . ",
     "url": "https://avblocks.com/documentation/#net-2",
