@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Features",
     "title": "Codecs",
-    "content": "Audio . | Advanced Audio Coding (AAC / MPEG-2 Part 7 / MPEG-4 Part 3) | MPEG-1 Audio Layer 1, 2, 3 (MP3) | MPEG-2 Audio Layer 1, 2, 3 (MPEG-2 Part 3) | Dolby Digital Audio (AC-3) 1) | Windows Media Audio 2) | G.711 · A-Law Audio · μ-Law Audio · PCM | G.726 Speech Audio · ADPCM | PCM Audio · LPCM Audio | . 1) Decoding only 2) Windows only . Video . | H.265 / HEVC / MPEG-H Part 2 1) 3) | H.264 / AVC / MPEG-4 Part 10 | VC-1 | VP8 | Windows Media Video 2) 3) | MPEG-4 Part 2 | H.263 · H.262 / MPEG-2 Part 2 · H.261 | MJPEG 2) | . 1) Only on NVIDIA Maxwell Gen. 2 GPUs and newer 2) Decoding only 3) Windows only . ",
+    "content": "Audio . | Advanced Audio Coding (AAC / MPEG-2 Part 7 / MPEG-4 Part 3) | MPEG-1 Audio Layer 1, 2, 3 (MP3) | MPEG-2 Audio Layer 1, 2, 3 (MPEG-2 Part 3) | Vorbis Audio | Opus Audio | G.711 · A-Law Audio · μ-Law Audio · PCM | G.726 Speech Audio · ADPCM | Dolby Digital Audio (AC-3) 1) | Windows Media Audio 2) | PCM Audio · LPCM Audio | . 1) Decoding only 2) Windows only . Video . | H.265 / HEVC / MPEG-H Part 2 1) 3) | H.264 / AVC / MPEG-4 Part 10 | VP9 | VP8 | MPEG-4 Part 2 | H.263 | H.262 / MPEG-2 Part 2 | H.261 | VC-1 | MJPEG 2) | Windows Media Video 2) 3) | . 1) Only on NVIDIA Maxwell Gen. 2 GPUs and newer 2) Decoding only 3) Windows only . ",
     "url": "https://avblocks.com/features/#codecs",
     "relUrl": "/features/#codecs"
   },"2": {
@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Features",
     "title": "File Formats / Containers / Systems",
-    "content": ". | MP4 · MP4 FastStart | WMV · WMA · ASF 1) 2) | AVI 1) | MPEG-1 | MPEG-2 TS | MPEG-2 PS | WAV | WebM / Matroska | . 1) Reading only 2) Windows only . ",
+    "content": ". | MP4 · MP4 FastStart | WebM / Matroska | Duck IVF (VP8 and VP9) | MPEG-2 TS | MPEG-2 PS | MPEG-1 | AVI 1) | WMV · WMA · ASF 1) 2) | WAV | . 1) Reading only 2) Windows only . ",
     "url": "https://avblocks.com/features/#file-formats--containers--systems",
     "relUrl": "/features/#file-formats--containers--systems"
   },"4": {
@@ -31,7 +31,7 @@
   },"5": {
     "doc": "Features",
     "title": "Supported Platforms",
-    "content": "macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 15 · 14 | macOS 13 (Ventura) · 12 (Monterey) · 11 (Big Sur) | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 7+ | Ubuntu (20.04 LTS and up) | . Windows . | Windows 11 · Windows 10 | Windows Server 2022 · Windows Server 2019 | 64Bit · Dynamic Libraries · Unicode | C++ · .NET Core 6+ · .NET CLR 4 (4.0 to 4.8) | Visual Studio 2022 · 2019 | . ",
+    "content": "macOS . | 64Bit · Dynamic Libraries · Unicode | C++ · Objective-C++ | Xcode 26 · 16 · 15 | macOS 15 (Sequoia) · macOS 14 (Sonoma) · macOS 13 (Ventura) · Intel Only | . Linux . | 64Bit · Shared Libraries · Unicode | C++ | GCC 9+ | Ubuntu 24.04 LTS · 22.04 LTS · 20.04 LTS | . Windows . | 64Bit · Dynamic Libraries · Unicode | C++ · .NET 10 · .NET 4.8 (CLR 4) | Visual Studio 2026 · 2022 · 2019 | Windows 11 · Windows 10 | Windows Server 2025 · Windows Server 2022 · Windows Server 2019 | . ",
     "url": "https://avblocks.com/features/#supported-platforms",
     "relUrl": "/features/#supported-platforms"
   },"6": {
@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Download",
     "title": ".NET SDK",
-    "content": "macOS (Intel, x64, .NET Core 6) . | AVBlocks .NET Core Library | AVBlocks .NET SDK (CLI Samples) | . Linux (Ubuntu, amd64, .NET Core 6) . | AVBlocks .NET Core Library | AVBlocks .NET SDK (CLI Samples) | . Windows (x64, .NET CLR 4, .NET Core 6) . | AVBlocks .NET Core Library | AVBlocks .NET SDK (CLI Samples) | . ",
+    "content": "macOS (Intel, x64, .NET 10) . | AVBlocks .NET Core Library | AVBlocks .NET SDK (CLI Samples) | . Linux (Ubuntu, amd64, .NET 10) . | AVBlocks .NET Core Library | AVBlocks .NET SDK (CLI Samples) | . Windows (x64, .NET 4.8, .NET 10) . | AVBlocks .NET Core Library | AVBlocks .NET SDK (CLI Samples) | . ",
     "url": "https://avblocks.com/download/#net-sdk",
     "relUrl": "/download/#net-sdk"
   },"9": {
@@ -61,142 +61,106 @@
   },"10": {
     "doc": "License",
     "title": "Commercial / Full License",
-    "content": "$6000 / year . This license is for established businesses and organizations: . | Fixed annual fee per product, per platform | No additional royalties | No hidden fees | . Please contact AVBlocks Sales. ",
+    "content": "$7,000 USD / year . This license is for established businesses and organizations: . | Fixed annual fee per product, per platform | No additional royalties | No hidden fees | . Please contact AVBlocks Sales. ",
     "url": "https://avblocks.com/license/#commercial--full-license",
     "relUrl": "/license/#commercial--full-license"
   },"11": {
     "doc": "License",
     "title": "Discounts",
-    "content": "Competitive product . $4800 / year (20% OFF) . Users of commercial products competitive to AVBlocks qualify for a 20% OFF towards standard commercial license for AVBlocks. Please contact AVBlocks Sales. Startup . $3000 / year (50% OFF) . This discount is available to any company that meets all the following requirements: . | Is privately held, and | Has been in business for no more than 3 years, and | Is engaged in development of a software-based product or service, and | Is an established business with a website and/or existing public references on the Internet. | . License issued for 1 year. Must apply again to renew. Please contact AVBlocks Sales. Educational institution . FREE . Classroom licenses allow for use of the fully-functional version of AVBlocks for educational and teaching purposes in classrooms by professors, trainers, and students. | May be provided for students and teachers to be used for classroom assistance. | Allows the software to be installed and used in on-site classrooms and labs. | Allows students and teachers to use the software on their personal PCs for educational tasks, such as preparing training materials or doing homework. | . Please contact AVBlocks Sales. Open source project . FREE . Non-commercial Open Source projects can qualify for free license to AVBlocks provided that they meet a set of simple criteria: . | You have to be a project lead or a regular committer. | Your OS project meets the Open Source definition. | You do not perform any paid support, consulting or training services for your OS project, and you do not distribute paid versions of your OS software. | Your OS project is in active development for a minimum of 3 months. | Your OS project’s community is active. This means that you have recent activity in your newsgroups or forums. | Your OS project has a website including either a regularly updated News section or links to social network account(s) where project updates are posted. | You release updated builds on a regular basis. | Your project license is a commercial use friendly license (i.e. not GPL, AGPL, LGPL, MPL or any other copyleft license). | . License issued for 1 year. Must apply again to renew. Please contact AVBlocks Sales. ",
+    "content": "Competitive product . $5,600 USD / year (20% OFF) . Users of commercial products competitive to AVBlocks qualify for a 20% OFF towards standard commercial license for AVBlocks. Please contact AVBlocks Sales. Startup . $3,500 USD / year (50% OFF) . This discount is available to any company that meets all the following requirements: . | Is privately held, and | Has been in business for no more than 3 years, and | Is engaged in development of a software-based product or service, and | Is an established business with a website and/or existing public references on the Internet. | . License issued for 1 year. Must apply again to renew. Please contact AVBlocks Sales. Educational institution . FREE . Classroom licenses allow for use of the fully-functional version of AVBlocks for educational and teaching purposes in classrooms by professors, trainers, and students. | May be provided for students and teachers to be used for classroom assistance. | Allows the software to be installed and used in on-site classrooms and labs. | Allows students and teachers to use the software on their personal PCs for educational tasks, such as preparing training materials or doing homework. | . Please contact AVBlocks Sales. Open source project . FREE . Non-commercial Open Source projects can qualify for free license to AVBlocks provided that they meet a set of simple criteria: . | You have to be a project lead or a regular committer. | Your OS project meets the Open Source definition. | You do not perform any paid support, consulting or training services for your OS project, and you do not distribute paid versions of your OS software. | Your OS project is in active development for a minimum of 3 months. | Your OS project’s community is active. This means that you have recent activity in your newsgroups or forums. | Your OS project has a website including either a regularly updated News section or links to social network account(s) where project updates are posted. | You release updated builds on a regular basis. | Your project license is a commercial use friendly license (i.e. not GPL, AGPL, LGPL, MPL or any other copyleft license). | . License issued for 1 year. Must apply again to renew. Please contact AVBlocks Sales. ",
     "url": "https://avblocks.com/license/#discounts",
     "relUrl": "/license/#discounts"
   },"12": {
     "doc": "Docs",
     "title": "Docs",
-    "content": " ",
+    "content": ". | C++ - AVBlocks Core (C++ / C) | .NET - AVBlocks for .NET | . ",
     "url": "https://avblocks.com/documentation/",
     "relUrl": "/documentation/"
   },"13": {
     "doc": "Docs",
-    "title": "C++",
-    "content": "AVBlocks Core (C++ / C) . ",
-    "url": "https://avblocks.com/documentation/#c",
-    "relUrl": "/documentation/#c"
-  },"14": {
-    "doc": "Docs",
-    "title": ".NET",
-    "content": "AVBlocks for .NET . ",
-    "url": "https://avblocks.com/documentation/#net",
-    "relUrl": "/documentation/#net"
-  },"15": {
-    "doc": "Docs",
     "title": "API Reference",
-    "content": " ",
+    "content": ". | C++ - AVBlocks Core (C++ / C) | .NET - AVBlocks for .NET | . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
     "url": "https://avblocks.com/documentation/#api-reference",
     "relUrl": "/documentation/#api-reference"
-  },"16": {
-    "doc": "Docs",
-    "title": "C++",
-    "content": "AVBlocks Core (C++ / C) . ",
-    "url": "https://avblocks.com/documentation/#c-1",
-    "relUrl": "/documentation/#c-1"
-  },"17": {
-    "doc": "Docs",
-    "title": ".NET",
-    "content": "AVBlocks for .NET . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
-    "url": "https://avblocks.com/documentation/#net-1",
-    "relUrl": "/documentation/#net-1"
-  },"18": {
+  },"14": {
     "doc": "Docs",
     "title": "Samples",
-    "content": " ",
+    "content": ". | C++ - AVBlocks C++ SDK (CLI Samples) | .NET - AVBlocks .NET SDK (CLI Samples) | . ",
     "url": "https://avblocks.com/documentation/#samples",
     "relUrl": "/documentation/#samples"
-  },"19": {
-    "doc": "Docs",
-    "title": "C++",
-    "content": "AVBlocks C++ SDK (CLI Samples) . ",
-    "url": "https://avblocks.com/documentation/#c-2",
-    "relUrl": "/documentation/#c-2"
-  },"20": {
-    "doc": "Docs",
-    "title": ".NET",
-    "content": "AVBlocks .NET SDK (CLI Samples) . ",
-    "url": "https://avblocks.com/documentation/#net-2",
-    "relUrl": "/documentation/#net-2"
-  },"21": {
+  },"15": {
     "doc": "Support",
     "title": "Support",
     "content": "Technical support for AVBlocks is provided via GitHub. ",
     "url": "https://avblocks.com/support/",
     "relUrl": "/support/"
-  },"22": {
+  },"16": {
     "doc": "Support",
     "title": "Feature requests",
     "content": "Please create an issue on GitHub. ",
     "url": "https://avblocks.com/support/#feature-requests",
     "relUrl": "/support/#feature-requests"
-  },"23": {
+  },"17": {
     "doc": "Support",
     "title": "Report a bug",
     "content": "Please create an issue on GitHub. ",
     "url": "https://avblocks.com/support/#report-a-bug",
     "relUrl": "/support/#report-a-bug"
-  },"24": {
+  },"18": {
     "doc": "Support",
     "title": "Contact us",
     "content": "You can always send an email to AVBlocks Support. ",
     "url": "https://avblocks.com/support/#contact-us",
     "relUrl": "/support/#contact-us"
-  },"25": {
+  },"19": {
     "doc": "Related Products",
     "title": "Related Products",
     "content": " ",
     "url": "https://avblocks.com/related-products/",
     "relUrl": "/related-products/"
-  },"26": {
+  },"20": {
     "doc": "Related Products",
     "title": "DVDBuilder",
     "content": "DVDBuilder is a DVD authoring software development kit that uses XML for describing various DVD features like video titles, chapters, menus, subtitles and languages. ",
     "url": "https://avblocks.com/related-products/#dvdbuilder",
     "relUrl": "/related-products/#dvdbuilder"
-  },"27": {
+  },"21": {
     "doc": "Related Products",
     "title": "PrimoBurner",
     "content": "PrimoBurner is a CD, DVD and Blu-ray burning software development kit (SDK). It is cross-platform, and offers a well-rounded and flexible API for fast and easy implementation of optical disc recording / archiving solutions. ",
     "url": "https://avblocks.com/related-products/#primoburner",
     "relUrl": "/related-products/#primoburner"
-  },"28": {
+  },"22": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "Audio / Video coding Blocks (AVBlocks) is a cross-platform Software Development Kit (SDK) for audio and video encoding, decoding and processing. ",
     "url": "https://avblocks.com/",
     "relUrl": "/"
-  },"29": {
+  },"23": {
     "doc": "Introduction",
     "title": "Supported audio codecs",
-    "content": ". | LPCM Audio | MPEG-1 Audio and MPEG-2 Audio (Layer 1, 2 and 3) | AAC Audio (MPEG-2 Part 7 / MPEG-4 Part 3) | Vorbis Audio | Dolby Digital Audio (AC3) (decode only) | Windows Media Audio (decode only) | Speech Audio / Voice Audio (G.711 / G.726) | . ",
+    "content": ". | LPCM Audio | MPEG-1 Audio and MPEG-2 Audio (Layer 1, 2 and 3) | AAC Audio (MPEG-2 Part 7 / MPEG-4 Part 3) | Vorbis Audio | Opus Audio | Dolby Digital Audio (AC3) (decode only) | Windows Media Audio (decode only) | Speech Audio / Voice Audio (G.711 / G.726) | . ",
     "url": "https://avblocks.com/#supported-audio-codecs",
     "relUrl": "/#supported-audio-codecs"
-  },"30": {
+  },"24": {
     "doc": "Introduction",
     "title": "Supported video codecs",
-    "content": ". | High Efficiency Video Coding (H.265 / HEVC / MPEG-H Part 2) | Advanced Video Coding (H.264 / MPEG-4 AVC / MPEG-4 Part 10) | WebM Video (Google VP8) | VC-1 Video | MPEG-4 Video (MPEG-4 Part 2) | MJPEG Video (decode only) | Windows Media Video | Mobile Video (H.263 / 3GPP / 3GPP2) | MPEG-2 Video (H.262 / MPEG-2 Part) | MPEG-1 Video (MPEG-1 Part 2) | H.261 Video | . ",
+    "content": ". | High Efficiency Video Coding (H.265 / HEVC / MPEG-H Part 2) | Advanced Video Coding (H.264 / MPEG-4 AVC / MPEG-4 Part 10) | WebM Video (Google VP8 and VP9) | VC-1 Video | MPEG-4 Video (MPEG-4 Part 2) | MJPEG Video (decode only) | Windows Media Video | Mobile Video (H.263 / 3GPP / 3GPP2) | MPEG-2 Video (H.262 / MPEG-2 Part) | MPEG-1 Video (MPEG-1 Part 2) | H.261 Video | . ",
     "url": "https://avblocks.com/#supported-video-codecs",
     "relUrl": "/#supported-video-codecs"
-  },"31": {
+  },"25": {
     "doc": "Introduction",
     "title": "Supported file formats",
-    "content": ". | Audio Video Interleaved (AVI) | Advanced Systems Format (ASF / WMA / WMV) | MPEG-1 Part 1 (MPEG Systems / MPG) | MPEG-2 Part 1 (MPEG-2 Program Stream / MPEG-PS) | MPEG-2 Part 1 (MPEG-2 Transport Stream / MPEG-TS / MTS / M2TS) | MPEG-4 Part 14 (M4A / MP4) | Waveform Audio File Format (WAVE / WAV) | WebM Container Format (WEBM) | . ",
+    "content": ". | Audio Video Interleaved (AVI) | Advanced Systems Format (ASF / WMA / WMV) | MPEG-1 Part 1 (MPEG Systems / MPG) | MPEG-2 Part 1 (MPEG-2 Program Stream / MPEG-PS) | MPEG-2 Part 1 (MPEG-2 Transport Stream / MPEG-TS / MTS / M2TS) | MPEG-4 Part 14 (M4A / MP4) | Waveform Audio File Format (WAVE / WAV) | WebM Container Format (WEBM) | Duck IVF (IVF) for VP8 and VP9 video | . ",
     "url": "https://avblocks.com/#supported-file-formats",
     "relUrl": "/#supported-file-formats"
-  },"32": {
+  },"26": {
     "doc": "Introduction",
     "title": "Platforms",
     "content": ". | Available for Windows, macOS, and Linux (Ubuntu) | . ",
     "url": "https://avblocks.com/#platforms",
     "relUrl": "/#platforms"
-  },"33": {
+  },"27": {
     "doc": "Introduction",
     "title": "Programming languages",
     "content": ". | C++ SDK | .NET SDK (C# - Visual Basic - F#) | . ",
