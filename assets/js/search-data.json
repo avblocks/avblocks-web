@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Introduction",
     "title": "Programming languages",
-    "content": ". | C++ SDK | .NET SDK (C# - Visual Basic - F#) | . ",
+    "content": ". | C++ SDK | Python SDK | .NET SDK (C# - Visual Basic - F#) | . ",
     "url": "https://avblocks.com/#programming-languages",
     "relUrl": "/#programming-languages"
   }
