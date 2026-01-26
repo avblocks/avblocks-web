@@ -73,19 +73,19 @@
   },"12": {
     "doc": "Docs",
     "title": "Docs",
-    "content": ". | C++ - AVBlocks Core (C++ / C) | .NET - AVBlocks for .NET | . ",
+    "content": ". | C++ - AVBlocks Core (C++ / C) | .NET - AVBlocks for .NET | Python - AVBlocks for Python | . ",
     "url": "https://avblocks.com/documentation/",
     "relUrl": "/documentation/"
   },"13": {
     "doc": "Docs",
     "title": "API Reference",
-    "content": ". | C++ - AVBlocks Core (C++ / C) | .NET - AVBlocks for .NET | . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
+    "content": ". | C++ - AVBlocks Core (C++ / C) | .NET - AVBlocks for .NET | Python - AVBlocks for Python | . NOTE: The C++ and the .NET API documentation is generated using Doxygen. ",
     "url": "https://avblocks.com/documentation/#api-reference",
     "relUrl": "/documentation/#api-reference"
   },"14": {
     "doc": "Docs",
     "title": "Samples",
-    "content": ". | C++ - AVBlocks C++ SDK (CLI Samples) | .NET - AVBlocks .NET SDK (CLI Samples) | . ",
+    "content": ". | C++ - AVBlocks C++ SDK (CLI Samples) | .NET - AVBlocks .NET SDK (CLI Samples) | .NET - AVBlocks Python SDK (CLI Samples) | . ",
     "url": "https://avblocks.com/documentation/#samples",
     "relUrl": "/documentation/#samples"
   },"15": {
