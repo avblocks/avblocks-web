@@ -28,6 +28,12 @@
   text-decoration: underline;
 }
 
+.made-in-usa {
+  color: var(--color-foreground-muted);
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}
+
 /* Hide top nav on mobile (Furo mobile header takes over) */
 @media (max-width: 46em) {
   .top-nav {
